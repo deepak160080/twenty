@@ -1634,7 +1634,7 @@ msgstr "Trigger type should be Manual - when no record(s) are selected"
 msgid "Type"
 msgstr "Type"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "Type anything"
 

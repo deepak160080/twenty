@@ -1639,7 +1639,7 @@ msgstr "트리거 유형은 수동이어야 합니다 - 선택된 레코드가 �
 msgid "Type"
 msgstr "유형"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "아무거나 입력하세요"
 
