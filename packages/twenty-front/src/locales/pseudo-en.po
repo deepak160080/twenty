@@ -1634,7 +1634,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr ""
 

@@ -1639,7 +1639,7 @@ msgstr "トリガータイプは、レコードが選択されていない場合
 msgid "Type"
 msgstr "タイプ"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "何でも入力"
 

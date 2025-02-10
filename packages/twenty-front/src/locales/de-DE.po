@@ -1639,7 +1639,7 @@ msgstr "Der Auslöser-Typ sollte manuell sein - wenn keine Aufzeichnung(en) ausg
 msgid "Type"
 msgstr "Typ"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "Geben Sie irgendetwas ein"
 

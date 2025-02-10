@@ -1639,7 +1639,7 @@ msgstr "触发类型应为手动 - 当没有选择记录时"
 msgid "Type"
 msgstr "类型"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "输入任何内容"
 

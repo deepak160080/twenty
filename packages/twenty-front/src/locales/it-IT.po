@@ -1639,7 +1639,7 @@ msgstr "Il tipo di trigger deve essere Manuale - quando non sono selezionati rec
 msgid "Type"
 msgstr "Tipo"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "Digita qualsiasi cosa"
 

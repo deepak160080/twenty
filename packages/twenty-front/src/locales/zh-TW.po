@@ -1639,7 +1639,7 @@ msgstr "觸發類型應為手動 - 當未選擇記錄時"
 msgid "Type"
 msgstr "類型"
 
-#: src/modules/command-menu/components/CommandMenuTopBar.tsx:154
+#: src/modules/command-menu/components/CommandMenuTopBar.tsx:157
 msgid "Type anything"
 msgstr "輸入任何內容"
 
